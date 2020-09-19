@@ -1,0 +1,27 @@
+{
+  "name": "ComponentModuleA",
+  "version": "0.0.1",
+  "summary": "业务组件A.",
+  "description": "业务组件A，负责A业务的相关工作",
+  "homepage": "https://github.com/jiaojiaozhe/ComponentModuleA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiaojiaozhe": "bluebiao@163.com"
+  },
+  "source": {
+    "git": "https://github.com/jiaojiaozhe/ComponentModuleA.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ComponentModuleA/Classes/**/*",
+  "dependencies": {
+    "LogicBaseComponentModule": [
+
+    ]
+  }
+}
