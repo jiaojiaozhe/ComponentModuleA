@@ -1,6 +1,6 @@
 {
   "name": "ComponentModuleA",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "业务组件A.",
   "description": "业务组件A，负责A业务的相关工作",
   "homepage": "https://github.com/jiaojiaozhe/ComponentModuleA",
@@ -13,14 +13,17 @@
   },
   "source": {
     "git": "https://github.com/jiaojiaozhe/ComponentModuleA.git",
-    "tag": "0.0.3"
+    "tag": "0.0.4"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
   "source_files": "ComponentModuleA/Classes/**/*",
   "dependencies": {
     "LogicBaseComponentModule": [
+
+    ],
+    "XAbstractionLibrary-UICommon": [
 
     ]
   }

@@ -4,7 +4,7 @@ source 'https://github.com/jiaojiaozhe/XAbstractionLibrary-Specs'
 
 use_frameworks!
 
-platform :ios, '8.0'
+platform :ios, '9.0'
 
 target 'ComponentModuleA_Example' do
   pod 'ComponentModuleA', :path => '../'
